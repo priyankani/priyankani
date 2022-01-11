@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @priyankani
-- 👀 I’m interested in java
-- 🌱 I’m currently learning JFS
-- 📫 How to reach me priyanka.nichit57@gmail.com
+- 👋 Hi, I’m Priyanka Nichit
+- 📫 priyanka.nichit57@gmail.com
